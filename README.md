@@ -2,6 +2,7 @@
 Coklu mail gönderme programı + pdf dosyası veya herhangi bir dosya ekleyebiliriniz.
 
 pip install email
+
 pip install email.mime.application
 
 bunların kurulumu yapın.
